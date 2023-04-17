@@ -1,0 +1,7 @@
+# PRIMA DI TUTTO SERVE LA BUILD
+
+npm run build
+
+# POI SI PUO PROCEDERE AL DEPLOY
+
+firebase deploy
